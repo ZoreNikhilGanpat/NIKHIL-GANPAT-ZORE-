@@ -14,5 +14,5 @@
 - Python EDA Project (coming soon)  
 
 ## 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/nikhilzore90/) | [RESUME](https://zorenikhilganpat.github.io/RESUME/)
+[LinkedIn](https://www.linkedin.com/in/nikhil-zore-3019463ab/) | [RESUME](https://zorenikhilganpat.github.io/RESUME/)
 
